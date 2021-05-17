@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @unixien
+- 👀 I am interested in programming, malware analysis, and 0day research
+- 🌱 I am currently learning computer virology
+- 💞️ I wish to collaborate on projects concerning the security of personal data and the preservation of anonymity, because I am sensitive to privacy
+- 📫 unixien@riseup.net
